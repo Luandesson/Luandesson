@@ -20,11 +20,11 @@
   - Leitura e interpretação do problema  
   - Diagramação em blocos (fluxograma)  
   - Codificação em Português Estruturado  
-- Conversão de todos os exercícios para Python no VS Code
+- Conversão de todos os exercícios para Python no PyCharm e C no VS Code
 - Foco em pensamento estruturado antes de aprender novas linguagens  
 
-### 📍 Objetivo 2026
-- Ingressar na Escola de engenharia - 42 Rio  
+### 📍 Objetivo
+- Ingressar na Escola de engenharia de software - 42 Rio  
 - Ampliar habilidades em C, Python, JavaScript, Banco de Dados e DevOps  
 - Liderar projetos e contribuir com soluções escaláveis  
 
