@@ -1,66 +1,80 @@
-# Hello World! Eu sou Luandesson Alves 👋🏼
+# 👋 Hi, I'm Luandesson Alves
 
-🎓 Estudante de Python no Senac-RJ & autodidata  
-📚 Estudando o livro *Algoritmos* (José Augusto Manzano)  
-🚀 Objetivo: ser um líder em Engenharia de Software  
+**Web Developer building real websites for real businesses.**  
+Brazil 🇧🇷 → Working Worldwide 🌎
 
----
-
-## 🚀 Minha Jornada
-
-### 📍 Aprendizado Presencial – Senac RJ
-- Lógica de Programação com Python  
-- Estruturas condicionais, loops e manipulação de dados  
-- Desenvolvimento Front-End (HTML, CSS, Bootstrap)  
-- Desenvolvimento Back-End com Python e automação de processos  
-- Projetos práticos aplicados em sala  
-
-### 📍 Estudo Autodidata
-- Resolução de 26 exercícios de lógica (A → Z) com:
-  - Leitura e interpretação do problema  
-  - Diagramação em blocos (fluxograma)  
-  - Codificação em Português Estruturado  
-- Conversão de todos os exercícios para Python no PyCharm e C no VS Code
-- Foco em pensamento estruturado antes de aprender novas linguagens  
-
-### 📍 Objetivo
-- Ingressar na Escola de engenharia de software - 42 Rio  
-- Ampliar habilidades em C, Python, JavaScript, Banco de Dados e DevOps  
-- Liderar projetos e contribuir com soluções escaláveis  
+I create fast, responsive and SEO-optimized websites for small businesses in Brazil and the United States.
 
 ---
 
-## 💻 Tech Stacks
+## 🌐 Real Projects (Live Websites)
 
-### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aiscript&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash&theme=light)](https://skillicons.dev)
+These are real companies using my work in production:
 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+🔹 https://primeecleaningnc.com/  
+Cleaning company – North Carolina, USA  
+• Institutional website  
+• Local SEO structure  
+• Responsive design  
+• Performance optimization  
 
-### Back-End & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=sqlite&theme=light)](https://skillicons.dev)
+🔹 https://gdinforcell.com/  
+Tech repair business – Brazil  
+• Business website  
+• Mobile-first layout  
+• Google search optimization  
+• Deployment & maintenance  
 
-### Ferramentas & Plataformas
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pycharm&theme=light)](https://skillicons.dev)
-
-### Contato
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)
+👉 Portfolio: https://luandesson.github.io/
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+## 💻 Tech Stack
+
+**Front-End**
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- SEO Fundamentals
+
+**Back-End & Automation**
+- Python
+- Basic APIs
+- Process Automation
+
+**Tools**
+- Git & GitHub
+- VS Code
+- PyCharm
+- Docker (learning)
+
+---
+
+## 🚀 Featured Repositories
+
+🔹 **minibankaccountsystem**  
+Python banking system simulation focused on logic and OOP foundations.
+
+🔹 **projeto_pizzaria**  
+Backend practice project simulating business logic and operations.
+
+🔹 **algoritmos_atividades_livro**  
+Algorithm exercises converted from structured pseudocode to Python.
+
+---
+
+## 🎯 Current Goal
+
+I'm looking for my **first opportunity as a Junior Web Developer / Software Engineer**, where I can:
+
+• Work with a team  
+• Build real products  
+• Grow fast as a developer  
+
+---
+
+## 📬 Contact
+
+💼 LinkedIn → https://linkedin.com/in/luandesson  
+📧 Email → alves.luandesson@gmail.com
